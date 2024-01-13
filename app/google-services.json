@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521870746383",
+    "project_id": "integratedrive-1b575",
+    "storage_bucket": "integratedrive-1b575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521870746383:android:1e5d587462d7e950c0547a",
+        "android_client_info": {
+          "package_name": "com.example.social.integrategoogledrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkI9xu4ybzayqzl0WrbIx3pBzcBp05050"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
